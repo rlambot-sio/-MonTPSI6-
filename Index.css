@@ -1,0 +1,125 @@
+a:visited{
+    color:black;
+}
+
+a:link{
+    text-decoration:none;
+}
+
+a:unvisited{
+    color:black;
+}
+
+label{
+    font-size:25px;
+}
+
+header
+{
+    height: 12%;
+    width:100%;
+    background-color: #F4FA58;
+    border: 1px solid black;
+    background-image: url(image/bois2.jpg);
+    background-position: center center;
+    background-repeat: no-repeat; 
+    background-size: 100% 100%;
+}
+
+.img, .img2 { 
+    height:80px;
+    width:110px;
+    margin-top:0.5%;
+    float:left;
+}
+
+.img{
+    margin-left:8%;
+}
+
+.img2{
+    margin-left:7%;
+}
+
+.connexion, .inscrip{
+    color:whitesmoke;
+    background-color:red;
+    border:1px solid red;
+    text-decoration:none;
+    font-size:20px; 
+    float:right;
+    margin-right:1%;
+    border-radius: 0px 0px 15px 15px;  
+    width:120px;
+    text-align: center;
+}
+
+.vide, .passe{
+    display: inline;
+}
+
+nav
+{
+    border-radius: 0px 0px 0px 15px;  
+    text-align: center;
+    width:15%;
+    height:80%;
+    float:left;
+    margin-left:10%;
+    border: 1px solid black;
+    border-collapse:collapse;
+}
+
+section
+{
+    border-radius: 0px 0px 15px 0px;
+    text-align:center;
+    width:60%;
+    height:80%;
+    margin-left:25%;
+    margin-right:10%;
+    border: 1px solid black;
+}
+
+section, nav{
+    background-image: url(image/bois.jpg);
+    font-family:"Comic sans MS", Times, serif;
+    font-size:25px;
+}
+
+body 
+{
+    background-image: url(image/bambou.png);
+}
+
+table
+{
+    border-width:2px; 
+    border-style:solid; 
+    border-color:black;
+    margin-left:auto;
+    margin-right:auto;
+    text-align: center;
+    font-size:20px;
+}
+
+td
+{
+    border-width:1px; 
+    border-style:solid; 
+    border-color:black;
+    width:180px;
+}
+
+th
+{
+    text-align:left;
+}
+hr{
+    width: 80%;
+}
+
+input
+{
+    text-align:center;
+}
